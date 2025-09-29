@@ -1,4 +1,4 @@
-# 1_primo
+# Primo
 
 Questo progetto è un semplice esempio di applicazione Node.js.
 
