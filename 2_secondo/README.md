@@ -1,4 +1,4 @@
-# 2_secondo
+# Secondo
 
 Questo progetto è un esempio di gestione di file multipli con Node.js.
 
