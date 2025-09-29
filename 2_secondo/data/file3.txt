@@ -1,0 +1,4 @@
+Terzo file di esempio nella cartella data.
+Questo file contiene testo diverso dai precedenti.
+JavaScript è un linguaggio fantastico!
+Async/await rende il codice asincrono più leggibile.

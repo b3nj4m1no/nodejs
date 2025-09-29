@@ -1,0 +1,4 @@
+Questo è il contenuto del primo file di testo.
+Contiene alcune righe di esempio per testare il nostro script.
+Prima riga del file 1.
+Seconda riga del file 1.

@@ -1,0 +1,19 @@
+{
+  "name": "random-file-reader",
+  "version": "1.0.0",
+  "description": "Script che sceglie casualmente un file di testo dalla cartella data e lo stampa",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node index.js"
+  },
+  "keywords": [
+    "node",
+    "javascript",
+    "async",
+    "file-system",
+    "random"
+  ],
+  "author": "Matthew Gasparetti",
+  "license": "MIT"
+}

@@ -1,0 +1,4 @@
+Contenuto del secondo file di testo.
+Questo file ha informazioni diverse.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Sed do eiusmod tempor incididunt ut labore.

@@ -1,0 +1,4 @@
+Quarto e ultimo file di testo.
+Contiene informazioni aggiuntive per il test.
+Node.js è perfetto per applicazioni server-side.
+Fine del contenuto del quarto file.
