@@ -17,4 +17,4 @@ Questa repository contiene più esercizi Node.js relativi al quinto anno di info
 - npm
 
 ## Autore
-Repository didattica per esercizi Node.js.
+Matthew Gasparetti
