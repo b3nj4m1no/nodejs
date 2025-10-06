@@ -1,0 +1,13 @@
+{
+  "name": "server-web-statico",
+  "version": "1.0.0",
+  "description": "Server web statico con Node.js",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node index.js"
+  },
+  "keywords": ["node", "server", "static", "web"],
+  "author": "",
+  "license": "MIT"
+}
