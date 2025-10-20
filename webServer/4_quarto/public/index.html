@@ -6,19 +6,25 @@
     <title>Home</title>
     <script src="https://cdn.tailwindcss.com"></script>
 </head>
-<body class="p-8">
-    <nav class="mb-8">
-        <a href="/" class="mr-4 text-blue-600">Home</a>
-        <a href="/pagina1.html" class="mr-4 text-blue-600">Pagina 1</a>
-        <a href="/pagina2.html" class="text-blue-600">Pagina 2</a>
-    </nav>
+<body class="min-h-screen flex flex-col items-center justify-between bg-gray-50">
+    <div class="flex-1 flex flex-col items-center justify-center w-full max-w-4xl mx-auto px-6">
+        <nav class="mb-12">
+            <a href="/" class="mx-6 text-lg text-blue-600 hover:text-blue-800 transition">Home</a>
+            <a href="/natura.html" class="mx-6 text-lg text-blue-600 hover:text-blue-800 transition">Natura</a>
+            <a href="/tecnologia.html" class="mx-6 text-lg text-blue-600 hover:text-blue-800 transition">Tecnologia</a>
+        </nav>
 
-    <main>
-        <h1 class="text-3xl mb-4">Benvenuto</h1>
-        <p class="mb-4">Sito web statico con Node.js</p>
-        <div class="w-64 h-32 bg-blue-200 flex items-center justify-center mb-4">
-            🏠 Home
-        </div>
-    </main>
+        <main class="text-center flex-1 flex flex-col justify-center">
+            <h1 class="text-5xl font-bold mb-8 text-gray-800">Benvenuto</h1>
+            <p class="text-xl mb-12 text-gray-600 max-w-2xl">Scegli una pagina e te la servirò</p>
+            <div class="w-80 h-48 bg-blue-200 flex items-center justify-center rounded-lg shadow-lg text-2xl mx-auto">
+                🏠 Home
+            </div>
+        </main>
+    </div>
+
+    <footer class="w-full text-center py-6 text-gray-500 border-t border-gray-200">
+        <p>Powered by Matthew with ❤️</p>
+    </footer>
 </body>
 </html>
